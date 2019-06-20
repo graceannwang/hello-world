@@ -1,3 +1,3 @@
 # hello-world
 
-Another short description
+A different short description
